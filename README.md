@@ -54,7 +54,7 @@ Market Basket Analysis metrics (Support, Confidence, Lift)
 Data visualization (Scatter plots, Dendrograms, Heatmaps)
 
 # Author
-Meghna Jagadeep (24BBT0092)
+Meghna Jagadeep 
 
 B.Tech Biotechnology
 

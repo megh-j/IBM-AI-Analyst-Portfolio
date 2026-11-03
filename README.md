@@ -1,4 +1,4 @@
-# 🤖 IBM AI-Analyst Learning
+# 🤖 IBM AI-Analyst Portfolio
 
 This repository contains a comprehensive collection of machine learning models and data analysis tasks completed during the IBM AI Analyst program. 
 

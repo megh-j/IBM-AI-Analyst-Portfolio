@@ -4,6 +4,7 @@ This repository contains a comprehensive collection of machine learning models a
 
 
 🛠️ Tech Stack & Libraries
+
 Language: Python
 Data Manipulation: Pandas, NumPy
 Machine Learning: Scikit-Learn (sklearn)
@@ -13,6 +14,7 @@ Environment: Jupyter Notebook / Google Colab
 
 
 📚 Syllabus
+
 Linear Regression
 Logistic Regression
 Naïve Bayes

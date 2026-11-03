@@ -4,7 +4,7 @@ This repository contains a comprehensive collection of machine learning models a
 
 This project features practical Python implementations of supervised and unsupervised learning algorithms, including regression, classification, clustering, association rules, and dimensionality reduction, bridging theoretical data science concepts with hands-on coding.
 
-✨ Features
+# ✨ Features
 
 Predict continuous variables using Linear Regression
 

@@ -24,7 +24,7 @@ Reduce dataset dimensionality using Principal Component Analysis (PCA)
 
 Visualize dendrograms, clusters, and confusion matrices using Matplotlib
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 Python 3
 
@@ -38,7 +38,7 @@ MLxtend (for Association Rules)
 
 Jupyter Notebook / Google Colab
 
-🚀 Programming & Data Concepts Practiced
+# 🚀 Programming & Data Concepts Practiced
 This project demonstrates the use of:
 
 Data pre-processing and standardization (StandardScaler)
@@ -53,8 +53,11 @@ Market Basket Analysis metrics (Support, Confidence, Lift)
 
 Data visualization (Scatter plots, Dendrograms, Heatmaps)
 
-Author
+# Author
 Meghna Jagadeep (24BBT0092)
+
 B.Tech Biotechnology
+
 Vellore Institute of Technology (VIT), Vellore
+
 IBM Adroit Certification Course
